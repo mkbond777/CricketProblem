@@ -19,5 +19,8 @@ class Links {
 
   // Fold, Reduce and Scan
   // https://stackoverflow.com/questions/17408880/reduce-fold-or-scan-left-right
+ 
+ // Launching Spark-shell with csv dependency 
+ // spark-shell --packages com.databricks:spark-csv_2.11:1.3.0
 
 }
